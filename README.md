@@ -12,3 +12,5 @@
 ### 首页： 
 1. 初始化加载音乐列表 
 2. 上拉刷新从系统的Media数据库中加载更多音乐
+### 音乐播放界面：
+<img width="748" height="939" alt="音乐播放界面" src="https://github.com/user-attachments/assets/a8f3898d-eebe-4159-b213-4186574d375b" />
